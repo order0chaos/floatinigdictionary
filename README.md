@@ -6,11 +6,14 @@ This Python Project is meant for fetching the meaning of a word which you search
 pip install bs4
 
 ## For installing tkinter
+
 Actually, you just need to use the following to install the tkinter for python3:
-For Debian,
+
+### For Debian,
+
 sudo apt-get install python3-tk
 
-In addition, for Fedora users, use the following command:
+### for Fedora users
 
 sudo dnf install python3-tkinter
 
