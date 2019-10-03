@@ -17,4 +17,6 @@ sudo apt-get install python3-tk
 
 sudo dnf install python3-tkinter
 
+### for Windows
+Search up through the Google... :)
 
